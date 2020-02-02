@@ -64,5 +64,5 @@ for i in 0...source_array.length
  return true if source_array[i]
   i += 1
 end
-return false 
+return false
 end
