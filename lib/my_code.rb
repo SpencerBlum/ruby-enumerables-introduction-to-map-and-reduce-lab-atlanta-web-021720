@@ -23,8 +23,8 @@ new_array = []
 
   for i in 0...source_array.length
     new_array.push(source_array[i] * 2)
-
-
+  end
+new_array
 end
 
 def map_to_square(source_array)
